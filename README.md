@@ -14,6 +14,8 @@ Welcome to open an issue or make a pull request!
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
 + TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
+
+## Waiting to be Categorized
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
