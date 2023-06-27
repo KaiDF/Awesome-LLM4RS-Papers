@@ -10,20 +10,20 @@ Welcome to open an issue or make a pull request!
 + Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
 + Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153), [[code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec).
 + Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
++ Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
 + TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
++ Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 
 ## Waiting to be Categorized
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
-+ Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 + A First Look at LLM-Powered Generative News Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06566).
 + Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.04518).
 + Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06474).
-+ Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
 + Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
 + Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 + PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
