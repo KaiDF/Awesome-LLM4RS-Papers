@@ -17,6 +17,7 @@ Welcome to open an issue or make a pull request!
 + A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
 + Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
 + Towards Personalized Cold-Start Recommendation with Prompts, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.17256).
++ BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15673).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
