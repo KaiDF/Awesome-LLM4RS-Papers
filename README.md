@@ -19,6 +19,7 @@ Welcome to open an issue or make a pull request!
 + Towards Personalized Cold-Start Recommendation with Prompts, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.17256).
 + BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15673).
 + Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.14225).
++ LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
