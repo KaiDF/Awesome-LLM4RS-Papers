@@ -33,6 +33,7 @@ Welcome to open an issue or make a pull request!
 + GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM, RecSys 2023, [[paper]](https://arxiv.org/abs/2308.03333).
++ A Large Language Model Enhanced Conversational Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.06212).
   
 ## Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
