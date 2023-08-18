@@ -20,6 +20,7 @@ Welcome to open an issue or make a pull request!
 + BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15673).
 + Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.14225).
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
++ Knowledge Prompt-tuning for Sequential Recommendation, MM 2023, [[paper]](https://arxiv.org/abs/2308.08459).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
@@ -34,6 +35,7 @@ Welcome to open an issue or make a pull request!
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM, RecSys 2023, [[paper]](https://arxiv.org/abs/2308.03333).
 + A Large Language Model Enhanced Conversational Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.06212).
++ A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
   
 ## Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
