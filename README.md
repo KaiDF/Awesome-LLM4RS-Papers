@@ -36,6 +36,8 @@ Welcome to open an issue or make a pull request!
 + Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM, RecSys 2023, [[paper]](https://arxiv.org/abs/2308.03333).
 + A Large Language Model Enhanced Conversational Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.06212).
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
++ ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.11131).
++ Leveraging Large Language Models for Pre-trained Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10837).
   
 ## Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
@@ -46,6 +48,7 @@ Welcome to open an issue or make a pull request!
 ## Waiting to be Categorized
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
 + Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
++ Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835).
   
 
 ## Universal Representation Learning
