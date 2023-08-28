@@ -21,6 +21,7 @@ Welcome to open an issue or make a pull request!
 + Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.14225).
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 + Knowledge Prompt-tuning for Sequential Recommendation, MM 2023, [[paper]](https://arxiv.org/abs/2308.08459).
++ LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
@@ -49,6 +50,7 @@ Welcome to open an issue or make a pull request!
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
 + Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 + Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835).
++ LKPNR: LLM and KG for Personalized News Recommendation Framework, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12028).
   
 
 ## Universal Representation Learning
