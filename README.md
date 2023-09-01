@@ -23,6 +23,7 @@ Welcome to open an issue or make a pull request!
 + Knowledge Prompt-tuning for Sequential Recommendation, MM 2023, [[paper]](https://arxiv.org/abs/2308.08459).
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
++ Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations, [[paper]](https://arxiv.org/abs/2308.16505).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
