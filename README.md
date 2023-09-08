@@ -47,6 +47,7 @@ Welcome to open an issue or make a pull request!
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
 + Recommender Systems in the Era of Large Language Models (LLMs), arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02046).
 + Large Language Models for Information Retrieval: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.07107).
++ Large Language Models for Generative Recommendation: A Survey and Visionary Discussions, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01157).
 
 ## Waiting to be Categorized
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
