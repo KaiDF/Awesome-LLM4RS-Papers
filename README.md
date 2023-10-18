@@ -25,6 +25,7 @@ Welcome to open an issue or make a pull request!
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
 + Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.16505).
 + Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053).
++ LLM4Vis: Explainable Visualization Recommendation using ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.07625).
  
 ## Fine Tuning
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
