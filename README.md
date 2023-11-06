@@ -44,6 +44,7 @@ Welcome to open an issue or make a pull request!
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.11131).
 + Leveraging Large Language Models for Pre-trained Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10837).
++ Collaborative Large Language Model for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.01343).
   
 ## Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
