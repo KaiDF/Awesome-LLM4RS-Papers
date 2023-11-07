@@ -58,6 +58,7 @@ Welcome to open an issue or make a pull request!
 + Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 + Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835).
 + LKPNR: LLM and KG for Personalized News Recommendation Framework, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12028).
++ LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [[paper]](https://arxiv.org/abs/2311.00423).
   
 
 ## Universal Representation Learning
